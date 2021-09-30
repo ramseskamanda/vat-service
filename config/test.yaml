@@ -1,0 +1,4 @@
+services:
+  vat:
+    skipPreflight: true
+    url: "https://ec.europa.eu/taxation_customs/vies/services/checkVatTestService"

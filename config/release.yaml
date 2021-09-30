@@ -1,0 +1,3 @@
+services:
+  vat:
+    url: "https://ec.europa.eu/taxation_customs/vies/services/checkVatService"
