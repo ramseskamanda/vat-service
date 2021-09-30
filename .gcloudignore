@@ -1,7 +1,6 @@
 .editorconfig
 .git
 .gitignore
-.gcloudignore
 AUTHORS.md
 CONTRIBUTING.md
 LICENSE
